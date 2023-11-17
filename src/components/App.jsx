@@ -870,8 +870,7 @@ function App() {
       <footer className="footer_section">
         <div className="container-fluid">
           <p>
-            © 2021 All Rights Reserved By
-            <a href="https://html.design/">Free Html Templates</a>
+            © 2021 All Rights Reserved
           </p>
         </div>
       </footer>
